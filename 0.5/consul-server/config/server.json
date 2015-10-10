@@ -1,6 +1,8 @@
 {
 	"ui_dir": "/ui",
 	"server": true,
+  "datacenter": "dc1"
+  "acl_datacenter": "dc1"
 	"dns_config": {
 		"allow_stale": false
 	}
