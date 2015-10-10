@@ -1,8 +1,9 @@
 {
 	"ui_dir": "/ui",
 	"server": true,
-  "datacenter": "dc1"
-  "acl_datacenter": "dc1"
+  "datacenter": "dc1",
+  "acl_datacenter": "dc1",
+  "acl_master_token": "master_token",
 	"dns_config": {
 		"allow_stale": false
 	}
